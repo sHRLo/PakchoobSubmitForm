@@ -13,9 +13,6 @@ function App() {
                 <Route path="/home" element={<Home/>} /><Route/>
             </Routes>
         </BrowserRouter>
-        // <div className='text-white h-[100vh] flex items-center justify-center bg-cover' style={{'backgroundImage': "url('./src/assets/0011.jpg')" }}>
-        //     <Login />
-        // </div>
     )
 }
 export default App;
