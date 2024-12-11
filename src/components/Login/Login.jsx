@@ -1,7 +1,7 @@
 import {Link} from "react-router-dom";
 const Login = () => {
     return (
-        <div className='text-white h-[100vh] flex items-center justify-center bg-cover'>
+        <div className='text-white h-[100vh] flex items-center justify-center bg-cover '>
             <div className={'bg-slate-800 border border-slate-600 rounded-md p-8 shadow-lg backdrop-blur-lg bg-opacity-30 relative '}>
                 <h1 className={'text-20xl font-bold text-center mb-6'}>ورود</h1>
                 <form action={''}>
