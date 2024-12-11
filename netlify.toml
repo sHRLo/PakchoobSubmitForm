@@ -1,0 +1,6 @@
+[build]
+  command = "npm run build"
+  publish = "build"  # Change this to match your actual output directory
+[build]
+  command = "npm run build"
+  publish = "build"  # Change this to match your actual output directory
